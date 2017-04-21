@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry\.android\build-cache\5787594945c813f45c9ce2957a009a97f121866b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Android_Porjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03c3e1101c90567002f07d88fb2073fe3f711b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_Porjects\CriminalIntent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60510668e5fdab4ff856bc59dfe607856c4f632d">
+        <dex dex="C:\Android_Porjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d8773a4bebed90231111b5699d99d0ea72e762d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_Porjects\CriminalIntent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android_Porjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e70854cf91f1ce6b2e94db9ef5606da57d798c0d\classes.dex" />
+    </item>
+
+</items>
