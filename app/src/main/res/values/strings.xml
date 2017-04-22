@@ -15,4 +15,5 @@
         <item quantity="one">%1$d crime</item>
         <item quantity="other">%1$d crimes</item>
     </plurals>
+    <string name="crime_empty_list">List is empty</string>
 </resources>
