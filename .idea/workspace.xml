@@ -156,21 +156,23 @@
       <file leaf-file-name="CrimeFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/criminalintent/CrimeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="108" column="77" selection-start-line="108" selection-start-column="77" selection-end-line="108" selection-end-column="77" />
+            <state relative-caret-position="1018">
+              <caret line="156" column="53" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2688#3089#0" expanded="true" />
-                <element signature="e#3088#3089#0" expanded="true" />
-                <element signature="e#3687#4172#0" expanded="true" />
-                <element signature="e#3994#4034#0" expanded="true" />
-                <element signature="e#4081#4112#0" expanded="true" />
-                <element signature="e#4171#4172#0" expanded="true" />
-                <element signature="e#5558#5597#0" expanded="true" />
-                <element signature="e#5643#5684#0" expanded="true" />
-                <element signature="e#5926#5969#0" expanded="true" />
-                <element signature="e#6010#6059#0" expanded="true" />
-                <element signature="e#6095#6181#0" expanded="true" />
+                <element signature="e#2913#3314#0" expanded="true" />
+                <element signature="e#3313#3314#0" expanded="true" />
+                <element signature="e#3912#4397#0" expanded="true" />
+                <element signature="e#4219#4259#0" expanded="true" />
+                <element signature="e#4306#4337#0" expanded="true" />
+                <element signature="e#4396#4397#0" expanded="true" />
+                <element signature="e#4618#4804#0" expanded="true" />
+                <element signature="e#4803#4804#0" expanded="true" />
+                <element signature="e#7545#7584#0" expanded="true" />
+                <element signature="e#7630#7671#0" expanded="true" />
+                <element signature="e#7913#7956#0" expanded="true" />
+                <element signature="e#7997#8046#0" expanded="true" />
+                <element signature="e#8082#8168#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2582,7 +2584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492886114556</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Suspect">
+      <created>1492887723195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1492887723195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2782,17 +2791,19 @@
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2688#3089#0" expanded="true" />
-            <element signature="e#3088#3089#0" expanded="true" />
-            <element signature="e#3687#4172#0" expanded="true" />
-            <element signature="e#3994#4034#0" expanded="true" />
-            <element signature="e#4081#4112#0" expanded="true" />
-            <element signature="e#4171#4172#0" expanded="true" />
-            <element signature="e#5558#5597#0" expanded="true" />
-            <element signature="e#5643#5684#0" expanded="true" />
-            <element signature="e#5926#5969#0" expanded="true" />
-            <element signature="e#6010#6059#0" expanded="true" />
-            <element signature="e#6095#6181#0" expanded="true" />
+            <element signature="e#2913#3314#0" expanded="true" />
+            <element signature="e#3313#3314#0" expanded="true" />
+            <element signature="e#3912#4397#0" expanded="true" />
+            <element signature="e#4219#4259#0" expanded="true" />
+            <element signature="e#4306#4337#0" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+            <element signature="e#4618#4804#0" expanded="true" />
+            <element signature="e#4803#4804#0" expanded="true" />
+            <element signature="e#7545#7584#0" expanded="true" />
+            <element signature="e#7630#7671#0" expanded="true" />
+            <element signature="e#7913#7956#0" expanded="true" />
+            <element signature="e#7997#8046#0" expanded="true" />
+            <element signature="e#8082#8168#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2852,17 +2863,19 @@
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2688#3089#0" expanded="true" />
-            <element signature="e#3088#3089#0" expanded="true" />
-            <element signature="e#3687#4172#0" expanded="true" />
-            <element signature="e#3994#4034#0" expanded="true" />
-            <element signature="e#4081#4112#0" expanded="true" />
-            <element signature="e#4171#4172#0" expanded="true" />
-            <element signature="e#5558#5597#0" expanded="true" />
-            <element signature="e#5643#5684#0" expanded="true" />
-            <element signature="e#5926#5969#0" expanded="true" />
-            <element signature="e#6010#6059#0" expanded="true" />
-            <element signature="e#6095#6181#0" expanded="true" />
+            <element signature="e#2913#3314#0" expanded="true" />
+            <element signature="e#3313#3314#0" expanded="true" />
+            <element signature="e#3912#4397#0" expanded="true" />
+            <element signature="e#4219#4259#0" expanded="true" />
+            <element signature="e#4306#4337#0" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+            <element signature="e#4618#4804#0" expanded="true" />
+            <element signature="e#4803#4804#0" expanded="true" />
+            <element signature="e#7545#7584#0" expanded="true" />
+            <element signature="e#7630#7671#0" expanded="true" />
+            <element signature="e#7913#7956#0" expanded="true" />
+            <element signature="e#7997#8046#0" expanded="true" />
+            <element signature="e#8082#8168#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3163,21 +3176,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/criminalintent/CrimeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="108" column="77" selection-start-line="108" selection-start-column="77" selection-end-line="108" selection-end-column="77" />
+        <state relative-caret-position="1018">
+          <caret line="156" column="53" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2688#3089#0" expanded="true" />
-            <element signature="e#3088#3089#0" expanded="true" />
-            <element signature="e#3687#4172#0" expanded="true" />
-            <element signature="e#3994#4034#0" expanded="true" />
-            <element signature="e#4081#4112#0" expanded="true" />
-            <element signature="e#4171#4172#0" expanded="true" />
-            <element signature="e#5558#5597#0" expanded="true" />
-            <element signature="e#5643#5684#0" expanded="true" />
-            <element signature="e#5926#5969#0" expanded="true" />
-            <element signature="e#6010#6059#0" expanded="true" />
-            <element signature="e#6095#6181#0" expanded="true" />
+            <element signature="e#2913#3314#0" expanded="true" />
+            <element signature="e#3313#3314#0" expanded="true" />
+            <element signature="e#3912#4397#0" expanded="true" />
+            <element signature="e#4219#4259#0" expanded="true" />
+            <element signature="e#4306#4337#0" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+            <element signature="e#4618#4804#0" expanded="true" />
+            <element signature="e#4803#4804#0" expanded="true" />
+            <element signature="e#7545#7584#0" expanded="true" />
+            <element signature="e#7630#7671#0" expanded="true" />
+            <element signature="e#7913#7956#0" expanded="true" />
+            <element signature="e#7997#8046#0" expanded="true" />
+            <element signature="e#8082#8168#0" expanded="true" />
           </folding>
         </state>
       </provider>
