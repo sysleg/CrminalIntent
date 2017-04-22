@@ -12,7 +12,14 @@ public class Crime {
     private Date mDate;
     private boolean mSolved;
     private String mTitle;
+    private String mSuspect;
 
+    public String getSuspect() {
+        return mSuspect;
+    }
+    public void setSuspect(String mSuspect) {
+        this.mSuspect = mSuspect;
+    }
     public UUID getId() {
         return mId;
     }
