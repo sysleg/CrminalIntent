@@ -159,11 +159,19 @@ public class CrimeListFragment extends Fragment {
     private void updateSubtitle() {
         CrimeLab crimeLab = CrimeLab.get(getActivity());
         int crimeCount = crimeLab.getCrimes().size();
-        String subtitle = getString(R.string.subtitle_format, crimeCount);
+        String subtitle = getQuantityString();
         if (!mSubtitleVisible) {
             subtitle = null;
         }
         AppCompatActivity activity = (AppCompatActivity) getActivity();
         activity.getSupportActionBar().setSubtitle(subtitle);
+    }
+
+    private String getQuantityString()
+    {
+        CrimeLab crimeLab = CrimeLab.get(getActivity());
+        int crimeSize = crimeLab.getCrimes().size();
+        String subtitle = getResources().getQuantityString(R.plurals.subtitle_plural, crimeSize, crimeSize);
+        return subtitle;
     }
 }
