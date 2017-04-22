@@ -56,8 +56,10 @@ public class CrimeListFragment extends Fragment {
             mCrimeRecyclerView.setAdapter(mAdapter);
         }else{
             mAdapter.notifyDataSetChanged();
+            mAdapter.setCrimes(crimes);
         }
         updateSubtitle();
+
     }
 
     private class CrimeHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
@@ -107,6 +109,10 @@ public class CrimeListFragment extends Fragment {
         @Override
         public int getItemCount() {
             return mCrimes.size();
+        }
+
+        public void setCrimes(List<Crime> crimes) {
+            mCrimes = crimes;
         }
     }
 
@@ -169,4 +175,5 @@ public class CrimeListFragment extends Fragment {
         String subtitle = getResources().getQuantityString(R.plurals.subtitle_plural, crimeSize, crimeSize);
         return subtitle;
     }
+
 }
